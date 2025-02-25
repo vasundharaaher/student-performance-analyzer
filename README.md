@@ -9,6 +9,7 @@ Installation
 
 Prerequisites
 Ensure you have Python 3.7+ installed.
+Download and install from Tesseract OCR GitHub
 
 Step 1: Clone the Repository
 git clone https://github.com/vasundharaaher/student-performance-analyzer.git
