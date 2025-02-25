@@ -1,0 +1,4 @@
+pip install python-docx==0.8.11
+pip install pymupdf
+pip install pdf2image
+pip Flask pytesseract Pillow opencv-python
